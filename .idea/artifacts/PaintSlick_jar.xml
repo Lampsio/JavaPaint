@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PaintSlick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PaintSlick_jar</output-path>
+    <root id="archive" name="PaintSlick.jar">
+      <element id="module-output" name="PaintSlick" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slick.jar" path-in-jar="/" />
+      <element id="library" level="project" name="natives" />
+    </root>
+  </artifact>
+</component>
