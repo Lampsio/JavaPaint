@@ -11,7 +11,7 @@
 ### Program Features:
 
 <ul>
-  <li><b>Create a new canvas:</b>b> Allows you to start with a blank canvas for your drawings.</li>
+  <li><b>Create a new canvas:</b> Allows you to start with a blank canvas for your drawings.</li>
   <li><strong>Load images:</strong> Import existing images to work on or edit them within the program.</li>
   <li><strong>Draw rectangles:</strong> Create shapes with straight lines and right angles.</li>
   <li><strong>Draw polygons:</strong> Create shapes with multiple sides and angles.</li>
