@@ -8,4 +8,4 @@ Java 17-19 (It is best to use newer versions of Java as older versions may not s
 Slick2D Library Documentation:
 https://slick.ninjacave.com/javadoc/
 
-![Tytuł obrazu](Pogląd.png)
+![Tytuł obrazu](Podgląd.PNG)
